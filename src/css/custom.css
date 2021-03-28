@@ -18,6 +18,24 @@
   --ifm-font-family-base:  Helvetica, Arial, sans-serif, 'Apple Color Emoji', 'Segoe UI Emoji', 'Segoe UI Symbol';
 }
 
+/* tune smaller scrollbar width*/
+*::-webkit-scrollbar {
+ width: 10px;
+}
+
+/* disable the buttons on the scrollbar (arrows pointing upwards and downwards). */
+*::-webkit-scrollbar-button {
+  display: none;
+}
+
+/*  custom the draggable scrolling handle. */
+*::-webkit-scrollbar-thumb {
+  min-height: 24px;
+  background-color: #999999;
+  border: 3px solid #fdfdfd;
+  border-radius: 5px;
+}
+
 .docusaurus-highlight-code-line {
   background-color: rgb(72, 77, 91);
   display: block;
