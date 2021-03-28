@@ -18,6 +18,9 @@
   --ifm-font-family-base:  Helvetica, Arial, sans-serif, 'Apple Color Emoji', 'Segoe UI Emoji', 'Segoe UI Symbol';
 }
 
+html{
+  scroll-behavior: smooth;
+}
 /* tune smaller scrollbar width*/
 *::-webkit-scrollbar {
  width: 10px;

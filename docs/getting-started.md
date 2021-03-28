@@ -1,28 +1,26 @@
 ---
-title: Getting Started
+title: 欢迎来到MAD图书馆
 slug: /
 ---
 
-## Step 1: Generate a new Docusaurus site
+本站希望为MAD/AMV爱好者提供有用的情报和工具, 同时对一些比较珍贵的教程和资料进行整理和备份（备份主要针对百度mad吧的图文教程）。
+目前计划/已包含的功能/板块如下:
 
-If you haven't already, generate a new Docusaurus site using the classic template:
+## [特效图鉴脚本](/wiki/intro)
+把一些有用的mad/amv效果收录进ae脚本中，使得使用者可以输入想要的特效并做到一键生成。每个效果的制作都参考了特定教程，教程的链接也会被一起收录。
+脚本的本意是希望理解了特效的人能够避免无谓的重复劳动而集中于创作，所以建议先学习相应的教程并了解其原理，以方便根据自己需求进行调整和优化。
 
-```shell
-npx @docusaurus/init@latest init my-website classic
-```
+## [Mad教程系统整理](/tutorial/content)
+从入门到精通，包含理论和实例的MAD学习导航，以及一些常用工具和插件的介绍。主要基于百度Mad吧的教程整理贴。
 
-## Step 2: Start your Docusaurus site
+## [优秀作品鉴赏](/recommendation/category)
+国内外各种类似的优秀作品推荐。或许会包含每周推荐。
 
-Run the development server in the newly created `my-website` folder:
+## [制作规范与圈内风气](/regulation/content)
+有关MAD制作的道德和法律方面的需要注意的问题，例如关于三剪和版权问题，以及圈内风气相关讨论。
 
-```shell
-cd my-website
+## [常见问题解答](/clarification/list)
+收录了一些经常会被问到的问题，例如MAD与AMV的关系，如何去除BGM等。
 
-npx docusaurus start
-```
-
-Open `docs/getting-started.md` and edit some lines. The site reloads automatically and display your changes.
-
-## That's it!
-
-Congratulations! You've successfully run and modified your Docusaurus project.
+## [MADer往事](/story/content)
+一些圈子内发生过的往事记录。
