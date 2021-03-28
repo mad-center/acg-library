@@ -7,10 +7,10 @@ title: 效果名单
 **注意：需要输入的具体效果名称请查看对应词条，与名单上的名字不一定相同**    
 **示例GIF/静态图的加载可能需要一定时间**
 
-* [涟漪/Ripple](/wiki/ripple)
-* [速度线/Speed Line](/wiki/speedline)
-* [雨/Rain](/wiki/rain)
-* [背光/Backlight](/wiki/backlight)
-* [毛刺/Glitch](/wiki/glitch)
-* [3D文字穿梭/Going through 3d Characters](/wiki/through_character)
-* [RGB分离/RGB seperation](/wiki/rgb_separation) 
+* [涟漪/Ripple]
+* [速度线/Speed Line]
+* [雨/Rain]
+* [背光/Backlight]
+* [毛刺/Glitch]
+* [3D文字穿梭/Going through 3d Characters]
+* [RGB分离/RGB seperation]

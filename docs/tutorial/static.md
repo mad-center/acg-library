@@ -31,7 +31,7 @@ _此板块大量参考和使用了Wuyi无疑的 [教程资源整理贴](https://
 
 ## 四、调色
 
-[调色教程](/tutorial/color)
+[调色教程]
 
 ## 五、文案
 
@@ -41,7 +41,7 @@ _此板块大量参考和使用了Wuyi无疑的 [教程资源整理贴](https://
 
 必要的话可以用日文或者罗马音搜
 
-[其它资源](/tutorial/new_guide#resource)
+[其它资源]
 
 **漫画系：**  
 [nyaa](https://nyaa.si/)  
@@ -55,12 +55,12 @@ _此板块大量参考和使用了Wuyi无疑的 [教程资源整理贴](https://
 [应该是拆包解决](https://tieba.baidu.com/p/2721396538)
 
 **MG系：**    
-[MG教程](/n/0)
+[MG教程]
 
 ## 七、制作技巧
 
-[新人导航里的教程](/tutorial/new_guide#no5)  
-[一些效果的制作方法](/tutorial/effect) (大量教程)  
+[新人导航里的教程]  
+[一些效果的制作方法]
 [静止系入门](https://www.bilibili.com/video/av4834708/)     
 [静止系背景搭建](http://www.bilibili.com/read/cv53505/)      
 [分镜合成思路](https://www.bilibili.com/video/av6745199/)

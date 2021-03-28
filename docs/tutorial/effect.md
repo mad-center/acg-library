@@ -5,11 +5,11 @@ title: 一些效果的实现方法
 _此板块大量参考和使用了Wuyi无疑的 [教程资源整理贴](https://tieba.baidu.com/p/5405972673)成果。由寻根问底1号作修改补充。_
 
 ## 部分基础或特化效果
-[新人导航教程](/tutorial/new_guide#no5)  
-[AMV相关教程](/tutorial/AMV)  
-[静止系MAD相关教程](/tutorial/static)  
+[新人导航教程]
+[AMV相关教程] 
+[静止系MAD相关教程]
 
-## [已加入特效图鉴的效果](/wiki/effect_list)
+## [已加入特效图鉴的效果]
 
 ## 综合
 [环形动画，仿青空，电频闪光，广景和刀光-静止燃](http://www.bilibili.com/video/av1019290/)   

@@ -6,8 +6,8 @@ title: 概述
 **AMV教程**和**静止系MAD教程**包含比较针对这两种作品的教程，而**调色教程**和**一些效果的实现方法**
 （大量教程）则包含其它的技巧。
 
-[新人导航](/tutorial/new_guide)  
-[AMV教程](/tutorial/AMV)  
-[静止系MAD教程](/tutorial/static)    
-[调色教程](/tutorial/color)   
-[一些效果的实现方法](/tutorial/effect)  
+[新人导航]
+[AMV教程]
+[静止系MAD教程]
+[调色教程]
+[一些效果的实现方法] 

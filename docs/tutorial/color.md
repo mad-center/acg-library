@@ -12,7 +12,7 @@ _此板块大量参考和使用了Wuyi无疑的 [教程资源整理贴](https://
 5.[AE调色教程](http://v.youku.com/v_show/id_XMjc1OTk5MTYw.html)  
 6.[调色原理与色彩匹配](http://v.youku.com/v_show/id_XMjY0NTM0Mzgw.html)  
 7.[名词概念和调色技巧](http://www.bilibili.com/read/cv74166)  
-8.[调色理论基础](/http://www.bilibili.com/read/cv144290)  
+8.[调色理论基础](http://www.bilibili.com/read/cv144290)  
 9.[色彩的构成与理解](https://tieba.baidu.com/p/3744776962)  
 10.[色彩构成](https://www.bilibili.com/video/av7800771/)
 

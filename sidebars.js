@@ -39,7 +39,7 @@ module.exports = {
         },
         'recommendation',
         'conduct',
-        'glossory',
+        'glossary',
         'contest'
     ],
 };
