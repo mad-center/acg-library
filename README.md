@@ -1,6 +1,6 @@
-# Website
+# ACG Library
 
-This website is built using [Docusaurus 2](https://v2.docusaurus.io/), a modern static website generator.
+ACG library is a website for MADer/AMVer.
 
 ## Development
 ### Installation
