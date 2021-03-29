@@ -49,5 +49,5 @@ html {
 
 /* copy tieba emphasize font color*/
 strong {
-  color: red;
+  color: rgba(255, 0, 0, .7);
 }

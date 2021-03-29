@@ -2,13 +2,9 @@
 title: Effects-Collection 特效图鉴
 ---
 
-**这个项目仍然在建设中。**    
-[English Introduction]
+![](/img/click_demo.png)
 
-![](/img/click_demo.png)  
 _输入特效名并点击应用即可生成相应特效。_
-
-> 关于详细的安装，使用和可以添加的效果名单及相应教程，请参看[维基]
 
 ## 简介
 

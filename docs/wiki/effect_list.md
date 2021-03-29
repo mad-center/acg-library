@@ -4,13 +4,12 @@ title: 效果名单
 
 下面是脚本所收录的效果及详细介绍，包含参考的教程地址。建议仔细学习原教程并理解效果的原理，以便根据需求对效果进行自由调整，而不局限于简单的套用。目前计划收录更多的效果，并且对效果进行分类。
 
-**注意：需要输入的具体效果名称请查看对应词条，与名单上的名字不一定相同**    
-**示例GIF/静态图的加载可能需要一定时间**
+**注意：需要输入的具体效果名称请查看对应词条，与名单上的名字不一定相同。示例GIF/静态图的加载可能需要一定时间**
 
-* [涟漪/Ripple]
-* [速度线/Speed Line]
-* [雨/Rain]
-* [背光/Backlight]
-* [毛刺/Glitch]
-* [3D文字穿梭/Going through 3d Characters]
-* [RGB分离/RGB seperation]
+* 涟漪/Ripple
+* 速度线/Speed Line
+* 雨/Rain
+* 背光/Backlight
+* 毛刺/Glitch
+* 3D文字穿梭/Going through 3d Characters
+* RGB分离/RGB seperation
