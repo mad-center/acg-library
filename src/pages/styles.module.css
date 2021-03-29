@@ -10,6 +10,9 @@
   text-align: center;
   position: relative;
   overflow: hidden;
+  background-image: url("/img/bg.png");
+  background-size: cover;
+  background-position: center;
 }
 
 @media screen and (max-width: 966px) {

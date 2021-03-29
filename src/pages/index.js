@@ -9,7 +9,7 @@ import styles from './styles.module.css';
 const features = [
   {
     title: '收集',
-    imageUrl: 'img/undraw_docusaurus_mountain.svg',
+    imageUrl: 'img/collect.png',
     description: (
       <>
         借助强大的互联网搜索引擎，收集有关MAD/AMV制作的高质量文档。层层筛选，宁缺毋滥。
@@ -18,7 +18,7 @@ const features = [
   },
   {
     title: '整理',
-    imageUrl: 'img/undraw_docusaurus_tree.svg',
+    imageUrl: 'img/management.png',
     description: (
       <>
         将筛选后得到的文档进行分类、精简，并注明版权出处信息。
@@ -27,7 +27,7 @@ const features = [
   },
   {
     title: '归档',
-    imageUrl: 'img/undraw_docusaurus_react.svg',
+    imageUrl: 'img/archive.png',
     description: (
       <>
         借助Github pages的在线托管，实现清晰的导航、高效的检索。
