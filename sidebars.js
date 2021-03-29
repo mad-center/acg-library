@@ -11,7 +11,7 @@ module.exports = {
         },
         {
             type: 'category',
-            label: '教程',
+            label: 'MAD/AMV教程',
             items: [
                 'tutorial/index',
                 'tutorial/new_guide',
@@ -23,7 +23,7 @@ module.exports = {
         },
         {
             type: 'category',
-            label: 'Wiki',
+            label: 'AE特效',
             items: [
                 'wiki/index',
                 'wiki/backlight',

@@ -2,153 +2,173 @@
 title: 新人导航
 ---
 
-此板块大量参考和使用了Wuyi无疑的 [教程资源整理贴](https://tieba.baidu.com/p/5405972673)成果。由寻根问底1号作重新编写整理和修改补充(即文中的笔者)。
-
-## 目录  
-[基本概念和审美培养](#no1)  
-[主软件选择](#no2)  
-[视频转换和压制](#no3)  
-[资源查找](#resource)  
-[基础教程](#no5)  
- 
-
-<a name="no1"/>
+> 本文参考了寻根问底1号重新编写整理和修改补充的新人导航。
 
 ## 一、基本概念和审美培养
-**[MAD和AMV的区别和联系]**
 
-**[优秀作品鉴赏]**
-
-首先需要明确自己最终想要做出怎么样的作品，以及圈子内较多人认同的高质量作品是什么样的。如果作品鉴赏里的某些作品能让你有一丝心动和憧憬的话，就朝着这个目标前进吧。（b站的数据并不能准确衡量作品的质量，所以请不要盲目以高点击高人气作品作为范例和目标。这也是需要培养审美的原因。）
-
-<a name="no2"/>
+首先需要**明确自己最终想要做出怎么样的作品**，以及**圈子内较多人认同的高质量作品是什么样的**。
+如果作品鉴赏里的某些作品能让你有一丝心动和憧憬的话，就朝着这个目标前进吧。
+（b站的数据并不能准确衡量作品的质量，所以请不要盲目以高点击高人气作品作为范例和目标。这也是需要培养审美的原因。）
 
 ## 二、主软件的选择
 
-有条件请支持官方正版。由于资源随时可能失效，请善用网上搜索，建议首先到相应的贴吧查找。部分软件的资源见[此贴3楼](https://tieba.baidu.com/p/5405972673)。
+有条件请支持官方正版。由于资源随时可能失效，善用网上搜索。
 
 ### 2.1 标准
 
-一般的标准配置为剪辑用Adobe Premier（pr），特效用Adobe After
-Effects(ae)。如果电脑性能好也可以直接用ae完成剪辑和特效。当然也可以用Sony
-Vegas制作视频，不过不一定比得上pr和ae的组合。（笔者没用过Vegas，不清楚现在发展到什么程度。）
+- 主剪辑 Adobe Premier(PR) 👍
+- 主特效 Adobe After Effects(AE)。👍
+- 编码输出 Media Encoder(AE一般自带) 👍
+- Sony Vegas ⚠️
 
-此外还可以使用Adobe系列的其他软件，例如Audition处理音频，Photoshop处理图片，Media
-Encoder输出视频，Illustrator处理矢量图。
+PR也可以特效，AE也可以剪辑，但是PR特效不够强，AE不擅长剪辑。**请使用合适的工具，做合适的事情。**
+
+此外，可以使用 Adobe 其他软件进行协助
+
+- 音频处理 Audition
+- 图片处理 Photoshop
+- 矢量图处理 Illustrator
 
 ### 2.2 进阶软件
 
-配合使用3d软件能够极大地拓宽可能性。目前MAD圈一般推荐Cinema
-4D（上手快效果好，能与ae联动），个人则是比较推荐Blender
-（开源免费，体积小，功能全面，版本2.8支持实时渲染）。这两款对于兴趣爱好者而言基本够用了（当然它们的性能都是专业级的）。3ds
-Max,
-Maya这两款老牌主力软件也可以了解一下。各3d软件都各有长短处，同时有些知识是共通的，建议先选择其中一款进行专攻。
+- Cinema 4D(C4D)（上手快效果好，能与ae联动）👍
+- Blender（开源免费，体积小，功能全面，版本2.8支持实时渲染）。👍
+- 3ds Max
+- Maya
 
-关于硬件和软件选择，可参看柏吃支醉的非常良心的[科普视频](https://www.bilibili.com/video/av1804134/)。
+3d软件各有长短处，知识一般是共通的，**建议先选择其中一款进行专攻。然后再触类旁通，举一反三。**
 
-<a name="no3"/>
+关于硬件和软件选择，可参考柏吃支醉的[科普视频](https://www.bilibili.com/video/av1804134/)。
 
 ## 三、视频转换和压制
 
-由于输出的原视频往往体积大码率高，不方便上传到网络，所以需要进行压制。有时也需要进行视频格式转换。
+> 为什么需要视频转换和压制？
 
-**推荐软件**
+由于Media Encoder输出的原视频体积一般非常巨大（GB级别），不方便上传到网络，所以需要进行压制。有时也需要进行视频格式转换。
 
-[Media Coder](http://mediacoder.com.cn/dlfull\_zh.htm)  
-[小丸工具箱](http://maruko.appinn.me/)  
-[格式工厂](http://www.pcgeshi.com/)（非常简单易用但效果不一定比得上前面两个。因为这个笔者用的是旧版所以也不多作评价。）
+推荐软件
 
-关于视频音频参数相关的概念，请参考柏吃支醉的另一个非常良心的[科普视频](https://www.bilibili.com/video/av6479027/) 。
+- [小丸工具箱](http://maruko.appinn.me/) 👍
+- [格式工厂](http://www.pcgeshi.com/) ⚠
+- 由VR分享的批量[MKV转MP4工具](http://pan.baidu.com/s/1dFtTyOL) 密码：Wuyi
 
-由VR分享的批量[MKV转MP4工具](http://pan.baidu.com/s/1dFtTyOL) 密码：Wuyi
+关于视频音频参数相关的概念，可以参考柏吃支醉的的[科普视频](https://www.bilibili.com/video/av6479027/)。
 
-<a name="resource"/> 
+## 四、基础教程
 
-## 四、资源查找
+> 什么是基础教程？基础教程的意义？
 
-国内：     
-[新建素材库](http://kissacg.org/)  
-[新建AMV素材库](http://amvscz.com/)   
-   
-[百度无字幕贴吧](https://tieba.baidu.com/f?kw=动漫无字幕)  
-[动漫花园](https://share.dmhy.org/)  
-[简单raw](http://www.36dm.com/)  
-[VCB-studio](https://vcb-s.com/)  
-[ACGrip](https://acg.rip/)    
-[爱恋动漫](http://www.kisssub.org/)  （点击无回应）  
-[MAD素材库](http://www.madsck.com/forum.php) （已失效）  
-[天使花园](http://www.tsdm.net/forum.php) (已失效)   
+基础教程就是新手入门的教程。**基础教程不能过长，不能啰嗦，不能面面俱到，不能深挖细节。**
+而是应该从全局概念切入，**快速帮新人构建一个整体的认识体系，了解基本的概念、操作。**
 
-国外（国外搜索请使用**罗马音/日文/英文**）：  
-[nyaa](https://nyaa.si)  
-[leopard-raws](http://leopard-raws.org/)  
-[yousei raw](https://yousei-raws.org/)  
-[东京图书馆](https://www.tokyotosho.info/)  
-[ohys-raws](http://www.shanaproject.com/subbertag/2106/)     
-[KOLEKSI RAW ANIME](http://portal.koleksi-raw.blue/home/) (已失效)     
+> 基础教程该如何选择？
 
-**不知道动漫的罗马音/日文**？  
-[番组计划](http://bangumi.tv/)    
-[AniBD](http://anidb.net/perl-bin/animedb.pl?show=main)  
+关于技术或者学术的东西，基础教程都不会少。这就说明了一个客观的事实，基础教程质量会良莠不齐。
+选错了基础教程，等于浪费了一部分时间，或者说学习效率不高。这里，个人给出建议：
+**按照上面的标准，前往b站或者外网寻找适合自己的基础教程，带着自己的目的去寻找，达到目的就可以结束。基础教程不用看很多，因为很多都是大同小异的。
+主要还是要带着自己的思考，从教程中学到实际的理论和实践知识。**
 
-音效资源------[爱给网](http://www.aigei.com/)  
-音效资源------[站长素材](http://sc.chinaz.com/yinxiao/)  
+下面是一些前辈整理的基础教程，**可以作为参考，不能尽信。别人的推荐不一定符合你的学习风格。**
 
-字幕资源------ http://subhd.com/main0    
-字幕资源------ http://www.zimucang.com/ （已失效）    
+### 4.1 PR基础教程
 
-<a name="no5"/>
+- [Doyoudo的基础教程](https://www.bilibili.com/video/av3504428/)
+- [pr新手入门基础教程](https://www.bilibili.com/video/av6835007/)
 
-## 五、基础教程  
+### 4.2 AE基础教程
 
-### 5.1 PR基础教程  
+- [AK大神的AE入门教程](https://www.bilibili.com/video/av36459549)| [原地址](http://www.videocopilot.net/basic/)
+- [柏吃支醉的AE基础教程](https://www.bilibili.com/video/av7425619/)
 
-[Doyoudo的基础教程](https://www.bilibili.com/video/av3504428/)  
-[pr新手入门基础教程](https://www.bilibili.com/video/av6835007/)  
+### 4.3 PR+AE基础教程
 
-### 5.2 AE基础教程    
-[AK大神的AE入门教程](https://www.bilibili.com/video/av36459549)
-[原地址](http://www.videocopilot.net/basic/)     
+- [触手之路第1季](http://www.bilibili.com/video/av660824/)和[1.5季](https://www.bilibili.com/video/av780499/)
 
-[柏吃支醉的AE基础教程](https://www.bilibili.com/video/av7425619/)  
+### 4.4 MAD/AMV入门教程
 
-### 5.3 PR+AE基础教程  
+- [新人教程1](https://www.bilibili.com/video/av4438182/)
+- [新人教程2](https://www.bilibili.com/video/av30179157)
+- [标准化AMV教程](https://www.bilibili.com/read/cv297647)
 
-[触手之路第1季](http://www.bilibili.com/video/av660824/)和[1.5季](https://www.bilibili.com/video/av780499/)
+### 4.5 常用AE插件教程
 
-### 5.4 MAD/AMV入门教程  
+Trapcode Particular
 
-[新人教程1](https://www.bilibili.com/video/av4438182/)   
-[新人教程2](https://www.bilibili.com/video/av30179157)    
-[标准化AMV教程](https://www.bilibili.com/read/cv297647)    
+- [P粒子基础教程](https://www.bilibili.com/video/av1018683/)
+- [P粒子高端教程](http://pan.baidu.com/s/1dFpjK45) 密码：Wuyi
+- [简单的P粒子用法](https://www.bilibili.com/video/av1887216/)
 
-### 5.5 进阶教程
-[AMV教程]
-[静止系MAD教程]
-[一些效果的实现方法]
+Trapcode Form
 
-<a name="no6"/>
+- [基础教程](https://www.bilibili.com/video/av4475994/)
 
-### 5.6 常用AE插件教程
-**Trapcode Particular**    
-[P粒子基础教程](https://www.bilibili.com/video/av1018683/)    
-[P粒子高端教程](http://pan.baidu.com/s/1dFpjK45) 密码：Wuyi    
-[简单的P粒子用法](https://www.bilibili.com/video/av1887216/)    
+Optical Flare
 
-**Trapcode Form**  
-[基础教程](https://www.bilibili.com/video/av4475994/)
+- [基础教程](https://www.bilibili.com/video/av510821/)
 
-**Optical Flare**  
-[基础教程](https://www.bilibili.com/video/av510821/)
+Twixtor
 
-**Twixtor**  
-[AE补帧教程](https://www.bilibili.com/read/cv205016)
+- [AE补帧教程](https://www.bilibili.com/read/cv205016)
 
-**PL粒子**  
-[pl粒子基础教程](https://www.bilibili.com/video/av1964469/)    
-[如何让你的分镜用pl粒子更显逼格](https://www.bilibili.com/video/av11386784/)    
-[PL粒子高端教程](http://pan.baidu.com/s/1slmd7dV) 密码：Wuyi    
-[pl粒子综合教程](https://www.bilibili.com/video/av4505660/)    
+PL粒子
 
-新人导航暂时到这里了。一些其它的技巧和工具将会在其它教程继续讨论。
+- [pl粒子基础教程](https://www.bilibili.com/video/av1964469/)
+- [如何让你的分镜用pl粒子更显逼格](https://www.bilibili.com/video/av11386784/)
+- [PL粒子高端教程](http://pan.baidu.com/s/1slmd7dV) 密码：Wuyi
+- [pl粒子综合教程](https://www.bilibili.com/video/av4505660/)
 
+当学习了一些基础教程后，可能你会产生这样的感觉：基础教程感觉都是玩具，零零散散。什么都产出不了。
+此时，你可以选择实践教程了。临摹教科书级别的作品，是可以获得成就感的。
+
+## 五、实践教程
+
+> 实践方法论？
+
+临摹作品，可以有多种方式：
+
+- 第一种：自信型（主动）。只观看原作品，然后完全按照自己的理解去拆解镜头片段，然后模仿实现。这种方式很容易遇到难点导致停滞。
+- 第二种：保守型（被动）。观看原作品，同时查看原作品工程文件(教学目的作品一般会有原工程提供)。
+  这种方式学习收益比较平缓，一般不会劝退，但是比起第一种，这种可能会缺乏自身思考的理解。
+- 第三种：混合型。观看原作品，遇到自己能独立理解和实现的，实现效果和原作基本一致或者超越原作的部分，那就自己实现。这部分，完全就是自身所学。
+  原作部分较难的镜头，自己没有思路，或者独立实现不了，或者实现效果相比原作太差，这时，基本需要借助外部力量的支持，
+  可以是别人的教学课程视频或者文档分析，或者直接问别人。
+
+下面是MAD界非常经典的两个教科书级别的作品。
+
+### 仿青空
+
+- [ [静止系]玻璃之空 原版](https://www.bilibili.com/video/BV1ms411f71b)
+- [【静止系MAD/仿青空/60fps】那样的思念，现在…你还记得吗](https://www.bilibili.com/video/BV18b411N7cb?share_source=copy_web)
+  👍（优秀的仿作）
+- [【文学少女MAD】宛若青空（仿青空）](https://www.bilibili.com/video/BV1Dx411F7Jy) 👍 （优秀的仿作）
+- [【处刑自己】仿青空-对比版（含工程文件）](https://www.bilibili.com/video/BV1Fr4y1N7Ho)
+- [【《静止系MAD》Ae教程】](https://www.bilibili.com/video/BV16s411i7Gi) 👍 (完整的教学视频，有点啰嗦)
+
+青空注重转场特效和过渡。
+
+### 仿黑盒
+
+- [[静止系]原创作品 black_box](https://www.bilibili.com/video/BV1yx411c7Ce?share_source=copy_web)
+- [光与对立 -Black box-](https://www.bilibili.com/video/BV1Ez411z7Df?share_source=copy_web)
+  👍 （优秀的仿作）
+- [黑盒子教程全面教程（不断更新中。。。）](https://www.bilibili.com/video/BV1qE411Y7pc) 👍 (
+  教学视频，只有前半部分的模仿)
+
+黑盒注重MG（动画），因为它的动画都是自己创建的。上面的教学视频不够完整，后面的部分可以选择找优秀仿作的工程文件进行参考补完。
+
+当这两个仿作艰难地完成后，就已经自由了。如果时间和精力允许的话，可以向着更高级的内容出发，例如：
+
+- 调色
+- 木偶
+- 3D模型自制
+- 系统地深入学习动画制作理论，可以找一些AE教科书来阅读。（虽然不直观，但非常系统，有体系。）
+- 优秀作品鉴赏，模仿优秀镜头片段
+
+## 六、总结
+你应该基本掌握
+- MAD/AMV制作常用的软件，以及它们的作用
+- AE基本概念和操作
+- MAD/AMV最常用到的AE插件有哪些，可以不作深究，但是要基本记得什么插件大致能做出什么效果。
+- 完整的作品临摹和实现
+
+接下来可以阅读其他文章来了解其他知识。例如素材的收集和整理。
