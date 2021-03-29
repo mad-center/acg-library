@@ -1,17 +1,17 @@
 /** @type {import('@docusaurus/types').DocusaurusConfig} */
 module.exports = {
-  title: 'ACG Library',
+  title: 'ACG 图书馆',
   tagline: 'Just make a dream or make a mad',
-  onBrokenLinks: 'throw',
+  onBrokenLinks: 'throw', // maybe warn is better
   onBrokenMarkdownLinks: 'warn',
   favicon: 'img/favicon.ico',
   organizationName: 'mad-center', // Usually your GitHub org/user name.
-  projectName: 'mad-library', // Usually your repo name.
+  projectName: 'acg-library', // Usually your repo name.
   themeConfig: {
     navbar: {
-      title: 'Mad Library',
+      title: 'ACG Library',
       logo: {
-        alt: 'Mad Logo',
+        alt: 'ACG Logo',
         src: 'img/logo.svg',
       },
       items: [
@@ -22,7 +22,7 @@ module.exports = {
           position: 'left',
         },
         {
-          href: 'https://github.com/mad-center/mad-library',
+          href: 'https://github.com/mad-center/acg-library',
           label: 'GitHub',
           position: 'right',
         },
@@ -41,7 +41,7 @@ module.exports = {
           sidebarPath: require.resolve('./sidebars.js'),
           // Please change this to your repo.
           editUrl:
-            'https://github.com/mad-center/mad-library',
+            'https://github.com/mad-center/acg-library',
         },
         theme: {
           customCss: require.resolve('./src/css/custom.css'),
@@ -50,5 +50,5 @@ module.exports = {
     ],
   ],
   url: 'https://mad-center.github.io', // Your website URL
-  baseUrl: '/mad-library/',
+  baseUrl: '/acg-library/',
 };
