@@ -15,15 +15,16 @@
   --ifm-color-primary-lighter: rgb(102, 212, 189);
   --ifm-color-primary-lightest: rgb(146, 224, 208);
   --ifm-code-font-size: 95%;
-  --ifm-font-family-base:  Helvetica, Arial, sans-serif, 'Apple Color Emoji', 'Segoe UI Emoji', 'Segoe UI Symbol';
+  --ifm-font-family-base: Helvetica, Arial, sans-serif, 'Apple Color Emoji', 'Segoe UI Emoji', 'Segoe UI Symbol';
 }
 
-html{
+html {
   scroll-behavior: smooth;
 }
+
 /* tune smaller scrollbar width*/
 *::-webkit-scrollbar {
- width: 10px;
+  width: 10px;
 }
 
 /* disable the buttons on the scrollbar (arrows pointing upwards and downwards). */
@@ -44,4 +45,9 @@ html{
   display: block;
   margin: 0 calc(-1 * var(--ifm-pre-padding));
   padding: 0 var(--ifm-pre-padding);
+}
+
+/* copy tieba emphasize font color*/
+strong {
+  color: red;
 }
