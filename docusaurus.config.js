@@ -2,9 +2,6 @@
 module.exports = {
   title: 'ACG Library',
   tagline: 'Just make a dream or make a mad',
-  // Please change this to your website url.
-  url: 'https://your-docusaurus-test-site.com',
-  baseUrl: '/',
   onBrokenLinks: 'throw',
   onBrokenMarkdownLinks: 'warn',
   favicon: 'img/favicon.ico',
@@ -52,4 +49,6 @@ module.exports = {
       },
     ],
   ],
+  url: 'https://mad-center.github.io', // Your website URL
+  baseUrl: '/mad-library/',
 };
