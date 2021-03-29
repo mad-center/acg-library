@@ -27,7 +27,7 @@ This command generates static content into the `build` directory and can be serv
 
 ### Deployment
 
-For Windows 10 PowerShell:
+For Windows 10:
 ```bash
 cmd /C "set "GIT_USER=wdpm" && yarn deploy"
 ```
