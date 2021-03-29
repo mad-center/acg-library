@@ -2,9 +2,6 @@
 
 ACG library is a website for MADer/AMVer.
 
-## image zip
-- https://www.onlineimagetool.com/
-
 ## Development
 ### Installation
 
