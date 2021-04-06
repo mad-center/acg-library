@@ -20,6 +20,8 @@ module.exports = {
                 'tutorial/color',
                 'tutorial/effect',
                 'tutorial/static',
+                'tutorial/motion-graphic',
+                'tutorial/plugins',
             ],
         },
         {
